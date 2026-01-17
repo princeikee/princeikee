@@ -32,7 +32,7 @@ Git, Linux, AWS, Figma, Postman
 
 ------
 
-#🔹 CORE STRENGTHS:
+# 🔹 CORE STRENGTHS:
 
 🌐 Web Development (HTML, CSS, JavaScript, React, Django)
 
