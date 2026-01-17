@@ -7,20 +7,24 @@ I’m a Computer Engineering graduate with a strong focus on Web Development �
 
 🚀 My technical experience covers a broad stack:
 
-🖥️ Frontend
+🖥️ Frontend:
+
 HTML5, CSS, TailwindCSS, JavaScript, TypeScript, React, Vue.js, Angular
 
-🧠 Backend
+🧠 Backend:
+
 Node.js, Express, Python, PHP, REST APIs
 Databases: MySQL, PostgreSQL, Monogo DB
 
-🤖 Hardware / IoT
+🤖 Hardware / IoT:
+
 Arduino, ESP32, C/C++, Embedded C, Sensors, Motor Control, Circuit Design
 
 🛠️ Tools:
+
 Git, Linux, AWS, Figma, Postman 
 
-🔹 Core Strengths 
+🔹 CORE STRENGTHS:
 
 🌐 Web Development (HTML, CSS, JavaScript, React, Django)
 
