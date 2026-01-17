@@ -1,4 +1,4 @@
-# princeiek
+# princeikee
 
 # 💫 About Me:
 I’m a Computer Engineering graduate specializing in Web Development , Python programming, and UI/UX design. I enjoy creating functional, user-friendly solutions from backend systems to intuitive interfaces and I’m always looking for new ways to merge technology with practical problem-solving.<br><br>I’ve worked on diverse projects, including my Smart Water Dispenser IoT project, custom web applications, and database-driven tools. My approach blends clean coding practices with thoughtful design, ensuring that every solution is both effective and visually engaging.<br><br>Beyond tech, I have a creative side, exploring content creation and digital strategy which helps me think outside the box and communicate ideas in impactful ways.<br><br>🔹 Core Skills: Web Development (HTML, CSS, JavaScript, Django), Python, UI/UX Design, MySQL, PostgreSQL, Git<br>🔹 Mindset: Adaptable, growth-focused, and driven to turn ideas into reality<br><br>📩 Open to collaborations and opportunities to build impactful digital solutions.<br><br><br>you can view my portfolio via https://princeiek12345-commits.github.io/Portfolio/  
