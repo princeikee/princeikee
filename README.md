@@ -3,38 +3,24 @@
 # 👨🏽‍💻 About Me:  
 ![WiCJ](https://github.com/user-attachments/assets/6853a54d-e2f6-4c44-bc2b-384d8328126c)
 
-I’m a Computer Engineering graduate with a strong focus on Web Development 🌐, Python programming 🐍, UI/UX design 🎨, and Embedded/IoT systems ⚙️. I build functional, user-centric solutions that span frontend interfaces, backend logic, and hardware-level integrations, with an emphasis on clean architecture and real-world usability.
+I’m a Computer Engineering graduate with a strong focus on Web Development 🌐, Python programming 🐍, UI/UX design 🎨, and Embedded/IoT systems ⚙️. I build functional, user centric solutions that span frontend interfaces, backend logic, and hardware-level integrations, with an emphasis on clean architecture and real-world usability.
 
 🚀 My technical experience covers a broad stack:
 
 🖥️ Frontend
-
 HTML5, CSS, TailwindCSS, JavaScript, TypeScript, React, Vue.js, Angular
-I create responsive, accessible, and visually engaging interfaces with performance in mind.
 
 🧠 Backend
-
 Node.js, Express, Python, PHP, REST APIs
-Databases: MySQL, PostgreSQL
-I focus on scalable systems, clean APIs, and maintainable code.
+Databases: MySQL, PostgreSQL, Monogo DB
 
 🤖 Hardware / IoT
-
 Arduino, ESP32, C/C++, Embedded C, Sensors, Motor Control, Circuit Design
-Projects include:
 
-💧 Smart Water Dispenser IoT System
+🛠️ Tools:
+Git, Linux, AWS, Figma, Postman 
 
-🚗 Obstacle-Avoiding Robotic Simulation
-
-☀️ Solar-Tracking Prototype using LDR sensors
-
-🛠️ My workflow is powered by:
-Git, Linux, AWS, Figma, Postman — enabling smooth collaboration, testing, and deployment.
-
-🎯 I approach every project with a balance of engineering discipline and design thinking, ensuring solutions are not only technically sound but also intuitive and impactful. Beyond pure development, I explore content creation 📸 and digital strategy 📊, which sharpens my communication skills and creative problem-solving.
-
-🔹 Core Strengths
+🔹 Core Strengths 
 
 🌐 Web Development (HTML, CSS, JavaScript, React, Django)
 
